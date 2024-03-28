@@ -4,7 +4,7 @@
 
 ### 🔭 I’m currently working on...
 - A fully local native mobile resume builder application using React Native, Redux, JavaScript and Paper UI.
-- A full-stack cross-platform animated group chat application with a React Native-based frontend with custom UI, state and storage tools, a Django-based ASGI backend with WebSockets, Redis, PostgreSQL, and Knox, and avatar and environment generation handled by InkScape, Adobe After Effects, DaVinci Resolve, and Blackmagic Fusion.
+- A cross-platform animated group chat application with a React Native-based frontend with custom UI, state and storage tools, a Django-based ASGI backend with WebSockets, Redis, PostgreSQL, and Knox, and avatar and environment generation handled by InkScape, Adobe After Effects, DaVinci Resolve, and Blackmagic Fusion.
 
 ### 🌱 I’m currently learning..
 - Advanced React Native, Redux and Three.js techniques for animations, gestures, and state management.
