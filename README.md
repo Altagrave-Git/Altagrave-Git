@@ -1,4 +1,4 @@
-## Hi there, I'm Damon Turcotte.
+## Hi there, I'm Damon Turcotte! 👋
 
 ### I'm a full-stack developer who builds web and mobile applications and the backend software that powers them. I'm passionate about creating smooth, efficient and unified systems of component applications to build powerful, responsive and unique software platforms that provide intuitive and memorable user experiences.
 
