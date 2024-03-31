@@ -1,6 +1,6 @@
 ## Hi there, I'm Damon Turcotte! 👋
 
-### I'm a full-stack developer who builds web and mobile applications and the backend software that powers them. I'm passionate about creating smooth, efficient and unified systems of component applications to build powerful, responsive and unique software platforms that provide intuitive and memorable user experiences.
+### I'm a full-stack developer who builds web and mobile applications and the backend software that powers them. I'm passionate about creating smooth, efficient and unified systems of component applications to build unique online platforms that provide intuitive and memorable user experiences.
 
 ### 🔭 I’m currently working on...
 - A fully local native mobile resume builder application using React Native, Redux, JavaScript and Paper UI.
